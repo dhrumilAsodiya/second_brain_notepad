@@ -116,7 +116,6 @@ second-brain/
 ---
 
 ## Implementation Plan (28 steps)
-
 This project is built incrementally across 28 sequential changes. Each session should start by reading this README and confirming which CHANGE number is next.
 
 | Change | Description | Status |
